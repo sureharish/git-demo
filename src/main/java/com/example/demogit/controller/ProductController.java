@@ -8,5 +8,9 @@ public class ProductController {
 	{
 		return "";
 	}
-
+	
+	public String getAllProduct()
+	{
+		return "";
+	}
 }
