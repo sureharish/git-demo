@@ -6,7 +6,7 @@ import org.springframework.stereotype.Controller;
 public class ProductController {
 	public String getAllProducts()
 	{
-		return "dfdf";
+		return "jhgjjj";
 	}
 	
 	public String getAllProduct()
